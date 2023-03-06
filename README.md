@@ -1,7 +1,7 @@
-Employee Data Generator
+## Employee Data Generator
 This code generates employee data in SQL database. The user can specify how many rows of data they want and can choose any SQL database that is supported.
 
-How to Use
+## How to Use
 To use this program, follow these steps:
 
 Clone the repository to your local machine.
